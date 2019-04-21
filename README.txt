@@ -186,7 +186,7 @@ There are three test class
    Thread1- Do not have enough ticket.
    End of Main
 
-   Thread2 hold 6 tickets and Thread1 find out it does not have enough tickets. Therefore this service is thread-safe.
+   Thread2 hold 6 tickets and Thread1 finds out it does not have enough tickets. Therefore, this service is thread-safe.
 
 
 
