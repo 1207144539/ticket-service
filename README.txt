@@ -167,7 +167,7 @@ Explain of the result:
 
 Test result by JUnit:
 Test function path:src/test/java/com.walmart.test
-There are three test class
+There are three test classes
 
 1. The class of FindAndHoldSeatsTest is used to test the function of findAndHoldSeats and numSeatsAvailable. Firstly, get the number of
    remain tickets named as remainTicket. Then three people hold 14 tickets. Check if the remain tickets = remainTicket-14. After more than expire
